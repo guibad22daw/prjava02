@@ -38,6 +38,6 @@ Al tornar a la branca branca00, el fitxer torna a la versió de l’últim commi
 Perquè hem fusionat els canvis de la branca branca00 a la branca main. Per tant, tots els canvis fets a la branca00 ara també es trobaran a la branca00. D’aquesta forma, al fer un push estem pujant al repositori a la branca main el codi que en un principi havíem consignat a la branca branca00.
 
 
-14a.
+14c.
 
 La branca ‘branca01’ està 1 commit ahead de la branca main.
